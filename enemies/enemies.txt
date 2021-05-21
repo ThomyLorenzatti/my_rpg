@@ -1,0 +1,18 @@
+x:y:live:attack:xp:skin:type //if 2or3:cooldown
+82:68:3:1:2:enemies/skin/1.png:1
+90:97:5:2:5:enemies/skin/2.png:2:2
+95:34:3:1:2:enemies/skin/4.png:3:3
+93:27:3:1:2:enemies/skin/5.png:1
+66:21:3:1:2:enemies/skin/6.png:2:3
+37:24:3:1:2:enemies/skin/7.png:1
+88:89:3:1:2:enemies/skin/3.png:1
+95:82:2:1:2:enemies/skin/2.png:3:3
+91:76:1:1:2:enemies/skin/5.png:2:3
+94:70:3:1:2:enemies/skin/7.png:1
+77:69:3:1:2:enemies/skin/6.png:3:2
+70:61:3:1:2:enemies/skin/1.png:1
+63:47:3:1:2:enemies/skin/4.png:1
+63:47:3:1:2:enemies/skin/3.png:3:2
+59:38:3:1:2:enemies/skin/4.png:1
+45:28:3:1:2:enemies/skin/6.png:1
+36:14:3:1:2:enemies/skin/1.png:1
